@@ -8,7 +8,7 @@ If you got here from my job application, please have a look around the pinned an
 
 - [logitModel](https://github.com/avila/logitModel): Final project of “Statistical Programming with R” course, where I wrote a package to run a logit estimation from scratch, including an inplementation of the [Newton–Raphson](https://en.wikipedia.org/wiki/Newton%27s_method) optimization algorithm.
 - [enetfactorforecastR](https://github.com/avila/enetfactorforecastR): Final project of “Multivariate Verfahren” course, where we developed a method for variable selection and forecasting using Principal Components and Elastic Net for dimensionality reduction. In this group work I was mostly responsible for the elastic net implementation and the visualizations.
-- [kaleckianModel](https://github.com/avila/kaleckianModel): In my exchange year at the Unicamp I wrote one of the assignments using **Shiny**. It is a very simple solver of a Kaleckian model. Text is in portuguese. 
+- [kaleckianModel](https://github.com/avila/kaleckianModel): In my exchange year at the Unicamp I wrote a very simple solver of a Kaleckian model using **Shiny**, used for illustrative purpose in a learning context. Text is in portuguese. 
 
 
 ### Stata
