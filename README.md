@@ -20,7 +20,7 @@ If you got here from my job application, please have a look around the pinned an
 ### Python
 
 - [global-terrorism-data](https://github.com/avila/global-terrorism-data): Final project of “Betriebssystem und Programmierung – Python” written with Marek Felten. A interactive result of this project [can be found in here](https://avila.github.io/py/map_europe.html).
-- [acarril/StataLinux](https://github.com/acarril/StataLinux/pulls?q=is%3Apr+author%3Aavila): I also made small contributions to the StataLinux Plugin. This plugins enables the user to send code to Stata from the Sublime Text editor. 
+- [acarril/StataLinux](https://github.com/acarril/StataLinux/pulls?q=is%3Apr+author%3Aavila): I also made a few contributions to the StataLinux Plugin. This plugins enables the user to send code to Stata from the Sublime Text editor. 
 
 
 Sometimes you can also find me answering and asking some questions at [StackOverflow](https://stackoverflow.com/users/8237186). 
